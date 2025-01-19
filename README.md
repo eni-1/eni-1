@@ -1,16 +1,19 @@
-## Hi there 👋
+## Projects
 
-<!--
-**eni-1/eni-1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### PSO Test Functions Visualization
+Custom test function particle swarm optimization visualized with Manim
 
-Here are some ideas to get you started:
+[View Project →](https://github.com/eni-1/pso-test-functions-manim)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### U-Net Image Segmentation
+U-Net architecture medical image segmentation with PyTorch
+
+[View Project →](https://github.com/eni-1/unet-segmentation-mi)
+
+
+### CNN Randomness Test 
+Convolutional neural network based randomness test with TensorFlow
+
+[View Project →](https://github.com/eni-1/cnn-randomness-test-base)
+
