@@ -10,7 +10,7 @@
 [View Project →](https://github.com/eni-1/unet-segmentation-mi)
 
 
-## CNN Randomness Test 
-### Convolutional neural network based randomness test with TensorFlow
+## Hybrid CNN Randomness Test 
+### Hybrid convolutional neural network based randomness test with TensorFlow
 
 [View Project →](https://github.com/eni-1/cnn-randomness-test-base)
