@@ -3,6 +3,10 @@
 
 [View Project →](https://github.com/eni-1/pso-test-functions-manim)
 
+## Predictive Maintenance Dashboard
+### End-to-end predictive maintenance pipeline with XGBoost, PostgreSQL, and PowerBI
+
+[View Project →](https://github.com/eni-1/predictive-maintenance-bi)
 
 ## U-Net Image Segmentation
 ### U-Net architecture medical image segmentation with PyTorch
