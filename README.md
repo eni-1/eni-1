@@ -10,6 +10,11 @@ https://github.com/user-attachments/assets/15bc34c1-ca04-4500-833c-c6eceef128b4
 
 [View Project →](https://github.com/eni-1/ais-telemetry-pipeline)
 
+## Neuro-Symbolic Deep RL Agent
+### Hybrid DQN agent using Python, TensorFlow, Gymnasium
+
+[View Project →](https://github.com/eni-1/breacher-dqn-agent)
+
 ## Predictive Maintenance Dashboard
 ### End-to-end predictive maintenance pipeline with XGBoost, PostgreSQL, and PowerBI
 
@@ -19,7 +24,6 @@ https://github.com/user-attachments/assets/15bc34c1-ca04-4500-833c-c6eceef128b4
 ### U-Net architecture medical image segmentation with PyTorch
 
 [View Project →](https://github.com/eni-1/unet-segmentation-mi)
-
 
 ## Hybrid CNN Randomness Test 
 ### Hybrid convolutional neural network based randomness test with TensorFlow
