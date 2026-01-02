@@ -10,6 +10,11 @@ https://github.com/user-attachments/assets/15bc34c1-ca04-4500-833c-c6eceef128b4
 
 [View Project →](https://github.com/eni-1/ais-telemetry-pipeline)
 
+## Real-time NLP pipeline
+### Fine tuned PyTorch NLP model pipeline using FastAPI inference, Docker Compose, and Apache Kafka.
+
+[View Project →](https://github.com/eni-1/classifier-pipeline)
+
 ## Neuro-Symbolic Deep RL Agent
 ### Hybrid DQN agent using Python, TensorFlow, Gymnasium
 
